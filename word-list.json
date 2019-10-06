@@ -70,5 +70,73 @@
 	{
 		"en": "delicate",
 		"tr": "hassas,narin"
+	},
+	{
+		"en": "excessive",
+		"tr": "aşırı,fazla"
+	},
+	{
+		"en": "vigorous",
+		"tr": "hareketli,coşkulu"
+	},
+	{
+		"en": "elaborate",
+		"tr": "özenilmiş,ayrıntılı"
+	},
+	{
+		"en": "swift",
+		"tr": "hızlı,çabuk"
+	},
+	{
+		"en": "poisonous",
+		"tr": "zehirli"
+	},
+	{
+		"en": "mutually",
+		"tr": "karşılıklı"
+	},
+	{
+		"en": "convincingly",
+		"tr": "ikna edici biçimde"
+	},
+	{
+		"en": "drastically",
+		"tr": "sert biçimde,şiddetli"
+	},
+	{
+		"en": "purely",
+		"tr": "sırf,sadece"
+	},
+	{
+		"en": "deniably",
+		"tr": "inkar edilebilir bir şekilde"
+	},
+	{
+		"en": "broad",
+		"tr": "geniş,kapsamlı"
+	},
+	{
+		"en": "well-being",
+		"tr": "esenlik,sağlık"
+	},
+	{
+		"en": "require",
+		"tr": "gerektirmek,istemek"
+	},
+	{
+		"en": "custodial care",
+		"tr": "koruyucu bakım"
+	},
+	{
+		"en": "hinder",
+		"tr": "engellemek, aksatmak"
+	},
+	{
+		"en": "encompass",
+		"tr": "kapsamak,içermek"
+	},
+	{
+		"en": "suspend",
+		"tr": "askıya almak,ertelemek"
 	}
 ]
